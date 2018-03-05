@@ -12,7 +12,7 @@ function myCurl($url)
 }
 
 // prendere un access token di instagram
-$access_token = "";
+$access_token = "10e2e9ae437346ac839547a879f72f67";
 // collegarsi https://api.instagram.com/v1/locations/search?lat=48.858844&lng=2.294351&access_token=ACCESS-TOKEN e scaricare il json
 // partiamo da Pisa
 $lat = 43.416667;
